@@ -1,0 +1,30 @@
+[
+    {
+      "domain_id": 1,
+      "domain_code": "TPC01",
+      "domain_name": "Joyson Safety Systems (Philippines) Corporation",
+      "domain_bus_tradename": "Joyson Safety Systems (Philippines) Corporation",
+      "domain_alt_code": "",
+      "domain_bus_seller_type": 1,
+      "domain_active": true,
+      "default_domain": true,
+      "domain_addedby": "",
+      "domain_modifiedby": "",
+      "domain_date_modified": "2022-07-15T10:29:00.433",
+      "oid": "2022-06-22T03:21:15.473"
+    },
+    {
+        "domain_id": 2,
+        "domain_code": "TPC02",
+        "domain_name": "Joyson Safety Systems (Philippines) Corporation test",
+        "domain_bus_tradename": "Joyson Safety Systems (Philippines) Corporation",
+        "domain_alt_code": "",
+        "domain_bus_seller_type": 1,
+        "domain_active": true,
+        "default_domain": true,
+        "domain_addedby": "",
+        "domain_modifiedby": "",
+        "domain_date_modified": "2022-07-15T10:29:00.433",
+        "oid": "2022-06-22T03:21:15.473"
+      }
+]
